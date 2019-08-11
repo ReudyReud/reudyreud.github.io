@@ -1,0 +1,17 @@
+html, body {
+    height:100%;
+} 
+body {
+    background-color: white;
+    background-image: url("https://images.pexels.com/photos/211122/pexels-photo-211122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.git{
+    padding-top: 200px;
+    font-size: 90px;
+    text-align: center; 
+}
+.btn{
+    width: 300px;
+}

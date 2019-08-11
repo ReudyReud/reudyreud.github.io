@@ -1,0 +1,28 @@
+html, body {
+    height:100%;
+} 
+
+body {
+    background-color: white;
+    background-image: url("https://images.unsplash.com/photo-1497215728101-856f4ea42174?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+#typewriter{
+    padding-top:8em;
+    text-align: center;
+    text-decoration: aquamarine;
+}
+#typewriter * { color:red; text-decoration: none;}
+
+/* body {
+    background-color:#ce3635;
+    text-align: center;
+    color:#fff;
+    padding-top:10em;
+  } */
+  
+
+/* .jumbotron{
+    background-color: aquamarine;
+} */
